@@ -13,12 +13,14 @@ Converts temperature values between Celsius, Fahrenheit, and Kelvin.
 ### 03 - Weight Converter
 Converts weight values between different units (kg, lbs, grams, etc).
 
+### 04 - Compound Interest Calculator
+Calculates compound interest based on principal, rate, and time, with input validation.
+
 ## Other Scripts
 
 - `area of a circle.py` — calculates area from radius
 - `circumference of a circle.py` — calculates circumference from radius
 - `hypotenuse of a triangle.py` — calculates hypotenuse using Pythagoras theorem
-- `compound_interest_calculator.py` — calculates compound interest
 - `madlibs.py` — a fun mad libs style text game
 - `main.py` — practice/testing script
 
