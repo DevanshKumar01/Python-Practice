@@ -16,6 +16,9 @@ Converts weight values between different units (kg, lbs, grams, etc).
 ### 04 - Compound Interest Calculator
 Calculates compound interest based on principal, rate, and time, with input validation.
 
+## 05 - Countdown Timer
+A CLI countdown timer that takes seconds as input and displays a live-updating HH:MM:SS countdown.
+
 ## Other Scripts
 
 - `area of a circle.py` — calculates area from radius
