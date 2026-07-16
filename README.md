@@ -16,8 +16,8 @@ Converts weight values between different units (kg, lbs, grams, etc).
 ### 04 - Compound Interest Calculator
 Calculates compound interest based on principal, rate, and time, with input validation.
 
-## 05 - Countdown Timer
-A CLI countdown timer that takes seconds as input and displays a live-updating HH:MM:SS countdown.
+### 05 - Countdown Timer
+A simple command-line countdown timer that counts down in HH:MM:SS format.
 
 ## Other Scripts
 
@@ -26,6 +26,7 @@ A CLI countdown timer that takes seconds as input and displays a live-updating H
 - `hypotenuse of a triangle.py` — calculates hypotenuse using Pythagoras theorem
 - `madlibs.py` — a fun mad libs style text game
 - `main.py` — practice/testing script
+- `Nested_loop.py` — practices nested for loops to print a symbol grid pattern
 
 ## Tech Stack
 
