@@ -35,3 +35,4 @@ A simple command-line countdown timer that counts down in HH:MM:SS format.
 ---
 
 More projects will be added here as I keep learning.
+- [06 - Shopping Cart](./06-Shopping_Cart/)
