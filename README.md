@@ -1,6 +1,6 @@
 # Python Practice
 
-My Python learning journey — beginner projects and daily practice as I build up my programming fundamentals.
+My Python learning journey – beginner projects and daily practice as I build up my programming fundamentals.
 
 ## Projects
 
@@ -19,14 +19,17 @@ Calculates compound interest based on principal, rate, and time, with input vali
 ### 05 - Countdown Timer
 A simple command-line countdown timer that counts down in HH:MM:SS format.
 
+### 06 - Shopping Cart
+A simple shopping cart that lets you add items with prices and prints a full bill summary at the end.
+
 ## Other Scripts
 
-- `area of a circle.py` — calculates area from radius
-- `circumference of a circle.py` — calculates circumference from radius
-- `hypotenuse of a triangle.py` — calculates hypotenuse using Pythagoras theorem
-- `madlibs.py` — a fun mad libs style text game
-- `main.py` — practice/testing script
-- `Nested_loop.py` — practices nested for loops to print a symbol grid pattern
+- `area of a circle.py` – calculates area from radius
+- `circumference of a circle.py` – calculates circumference from radius
+- `hypotenuse of a triangle.py` – calculates hypotenuse using Pythagoras theorem
+- `madlibs.py` – a fun mad libs style text game
+- `main.py` – practice/testing script
+- `Nested_loop.py` – practices nested for loops to print a symbol grid pattern
 
 ## Tech Stack
 
@@ -35,4 +38,3 @@ A simple command-line countdown timer that counts down in HH:MM:SS format.
 ---
 
 More projects will be added here as I keep learning.
-- [06 - Shopping Cart](./06-Shopping_Cart/)
