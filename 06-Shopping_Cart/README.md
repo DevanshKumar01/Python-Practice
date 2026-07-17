@@ -14,16 +14,16 @@ This project simulates a basic shopping cart where the user can keep adding food
 4. 🧾 A bill summary is printed showing all items and their prices
 5. 💵 Total amount is displayed at the bottom
 
-## 🖥️ Example
-Type The Food You Want To Buy OR Type Q to Exit: pizza
-Type The Price: 50
-Type The Food You Want To Buy OR Type Q to Exit: burger
-Type The Price: 120
-Type The Food You Want To Buy OR Type Q to Exit: Q
------ Bill Summary -----
-pizza : ₹50.00
-burger : ₹120.00
-Total Amount: ₹170.00
+* ## 🖥️ Example
+* Type The Food You Want To Buy OR Type Q to Exit: pizza
+* Type The Price: 50
+* Type The Food You Want To Buy OR Type Q to Exit: burger
+* Type The Price: 120
+* Type The Food You Want To Buy OR Type Q to Exit: Q
+* ----- Bill Summary -----
+* pizza : ₹50.00
+* burger : ₹120.00
+* Total Amount: ₹170.00
 
 ## 🧠 Concepts used
 
