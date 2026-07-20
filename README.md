@@ -22,6 +22,9 @@ A simple command-line countdown timer that counts down in HH:MM:SS format.
 ### 06 - Shopping Cart
 A simple shopping cart that lets you add items with prices and prints a full bill summary at the end.
 
+### 07 - Quiz Game
+A command-line multiple-choice quiz game that tests basic programming knowledge and shows your final score.
+
 ## Other Scripts
 
 - `area of a circle.py` – calculates area from radius
@@ -30,6 +33,7 @@ A simple shopping cart that lets you add items with prices and prints a full bil
 - `madlibs.py` – a fun mad libs style text game
 - `main.py` – practice/testing script
 - `Nested_loop.py` – practices nested for loops to print a symbol grid pattern
+- `2D_list.py` – practices working with 2D lists (nested lists) using a keyboard layout example
 
 ## Tech Stack
 
