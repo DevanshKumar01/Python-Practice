@@ -25,6 +25,10 @@ A simple shopping cart that lets you add items with prices and prints a full bil
 ### 07 - Quiz Game
 A command-line multiple-choice quiz game that tests basic programming knowledge and shows your final score.
 
+### 08 - Concession Stand
+A simple concession stand simulator that displays a menu, takes orders, and calculates the total bill.
+A command-line multiple-choice quiz game that tests basic programming knowledge and shows your final score.
+
 ## Other Scripts
 
 - `area of a circle.py` – calculates area from radius
